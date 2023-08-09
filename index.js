@@ -153,7 +153,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
 setTimeout(() => {
   showMystery = true;
-}, 2500);
+}, 25000);
 
 function game() {
   checkGameOver();
